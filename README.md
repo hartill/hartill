@@ -2,7 +2,7 @@
 
 ### Pixie: Animated Canvas
 
-_A drawing application with animated scenes._
+_An animated coloring in book._
 
 - [IOS App](https://apps.apple.com/de/app/pixie-animated-canvas/id6473292130?l)
 - [Browser Preview](http://pixie.jameshartill.com/)
@@ -16,6 +16,12 @@ _Training app for the German state integration test._
 - [Browser Preview](http://leben-in-deutschland.jameshartill.com/)
 
 ## 🎲 Playground
+
+### Wind Turbine Condition Monitoring
+
+_WIP wind turbine digital twin._
+
+- [Browser Preview](http://wfam.jameshartill.com/)
 
 ### Soundscape
 
