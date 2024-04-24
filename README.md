@@ -5,7 +5,7 @@
 _A drawing application with animated scenes._
 
 - [IOS App](https://apps.apple.com/de/app/pixie-animated-canvas/id6473292130?l)
-- [Browser Preview](http://vega.jameshartill.com/)
+- [Browser Preview](http://pixie.jameshartill.com/)
 
 
 ### Leben in Deutschland
